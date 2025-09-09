@@ -9,20 +9,8 @@ Here on GitHub, you'll find some of my **study projects**, documenting my journe
 ---
 
 ## 🛠️ Tech I work with
-- **Backend:** Python, PostgreSQL, MySQL  
-- **Front-end:** HTML, CSS, JavaScript  
-- **Mobile:** Kotlin, React Native (JavaScript), Swift  
 - **ERP:** Odoo development & customization  
 - **Integrations:** RESTful APIs  
-
-<img src="https://raw.githubusercontent.com/lourencolia/lourencolia/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lourencolia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lourencolia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
