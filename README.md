@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub space!
 
-Hi! I'm **Liandra**, 26 y/o from **São Paulo, Brazil**.  
+Hi! I'm **Lia**, 26 y/o from **São Paulo, Brazil**.  
 I'm currently studying **Information Systems (5th semester)** and also hold a degree in **Marketing**.  
 I'm **fluent in English** (even taught a bit in a language school 😅) and I love mixing **creativity + technology** to build things that are both functional and beautiful.  
 
