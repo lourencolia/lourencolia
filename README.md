@@ -8,8 +8,7 @@ Here on GitHub, you'll find some of my **study projects**, documenting my journe
 
 ---
 
-## 🛠️ Tech I work with
-- **ERP:** Odoo development & customization  
+## 🛠️ Tech I work with 
 - **Integrations:** RESTful APIs  
 
 ###
@@ -26,8 +25,6 @@ Here on GitHub, you'll find some of my **study projects**, documenting my journe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
   <img width="12" />
